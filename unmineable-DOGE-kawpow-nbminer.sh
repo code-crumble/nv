@@ -1,0 +1,1 @@
+./nbminer -a kawpow -o stratum+ssl://kp.unmineable.com:4444 -u DOGE:D73uKcNqSBJzArqKcnWS2gsyrxD7kZdq2i.unmineable_worker_ndeanpyv#Bitcoin-Tips -log 
